@@ -1,4 +1,4 @@
-#this program purely describes my profile
+
 <h1 align="center">Hi 👋, I'm Jeevan Santhosh Sailada</h1>
 <h3 align="center">A CSE sophomore who loves exploring new field and empower new skills.</h3>
 
